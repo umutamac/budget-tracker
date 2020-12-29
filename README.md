@@ -4,12 +4,12 @@ This is a PWA (Progressive Web App) that keeps track of funds of an account, as 
 
 ## Table of Contents
 * [Description](#Description)
-* [Installation](#Installation)
+* [Installation&Deployment](#Installation&Deployment)
 * [Usage](#Usage)
 * [License](#License)
 * [Questions](#Questions)
 
-## Installation & Deployment
+## Installation&Deployment
 Simply visit the live link: https://enigmatic-tundra-93097.herokuapp.com/
 
 ## Usage
